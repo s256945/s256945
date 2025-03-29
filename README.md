@@ -49,7 +49,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s256945&layout=compact&theme=dark&hide_border=false)
 
-![Contribution Snake](https://raw.githubusercontent.com/s256945/s256945/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+![Contribution Snake](https://raw.githubusercontent.com/s256945/contrib-snake/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 ---
 
 ### ✍️ Random Dev Quote
