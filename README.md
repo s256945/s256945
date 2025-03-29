@@ -3,7 +3,7 @@
 <p align="center">
   🌱 Apprentice Software Engineer (Front-End)<br/>
   🎓 Studying for a Digital & Technology Solutions degree<br/>
-  🎨 Passionate about creative UI, accessibility, and building fun, interactive projects
+  📸 In my free time, I enjoy photography, reading, hiking, and swimming
 </p>
 
 ---
