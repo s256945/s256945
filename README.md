@@ -12,6 +12,20 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=s256945&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=s256945&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 📊 GitHub Stats:
+
+<!-- Overall contribution stats -->
+![](https://github-readme-stats.vercel.app/api?username=s256945&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+<!-- Streaks (daily commit streaks) -->
+![](https://streak-stats.demolab.com?user=s256945&theme=dark&hide_border=false)
+
+<!-- Top languages across public repos -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=s256945&layout=compact&theme=dark&hide_border=false)
+
+<!-- Contribution snake (fun animation) -->
+![](https://github.com/s256945/s256945/blob/output/github-contribution-grid-snake.svg)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
