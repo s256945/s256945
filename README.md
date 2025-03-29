@@ -83,7 +83,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=s256945&icon=2&color=9" alt="Visitor Counter"/>
-</p>
